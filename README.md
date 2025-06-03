@@ -1,5 +1,12 @@
 # 1) Что такое Spark?
 
+![image](https://github.com/user-attachments/assets/818ee61a-148c-458a-918f-ade1f61c88d7)
+
+![image](https://github.com/user-attachments/assets/3a86f19d-25fe-43f6-9d34-758211db5496)
+
+![image](https://github.com/user-attachments/assets/e65e0c1f-e5f5-4f04-b21c-deb40d308312)
+
+
 ****************************************************************************************
 # 2) Объясни парадигму MapReduce и почему Spark пришел ей на замену?
 
