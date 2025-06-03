@@ -10,6 +10,16 @@
 ****************************************************************************************
 # 2) Объясни парадигму MapReduce и почему Spark пришел ей на замену?
 
+![image](https://github.com/user-attachments/assets/2773416f-a78d-433e-a59e-85e9ee7cce41)
+
+![image](https://github.com/user-attachments/assets/15e93f92-021f-43f0-9200-768f31dbbee6)
+
+![image](https://github.com/user-attachments/assets/b24903b8-5cc5-41d9-bdcd-2b2fa2915b56)
+
+![image](https://github.com/user-attachments/assets/0e48073c-bf71-46f0-9ce0-7bcb4de84d1b)
+
+
+
 ****************************************************************************************
 # 3) Что делает Shuffle в Spark? Между чем передаются данные?
 
