@@ -23,8 +23,29 @@
 ****************************************************************************************
 # 3) Что делает Shuffle в Spark? Между чем передаются данные?
 
+![image](https://github.com/user-attachments/assets/9ad14485-0954-4530-b9c5-3c2019b53238)
+
+![image](https://github.com/user-attachments/assets/c03becd8-d0e3-475e-b176-ec6b5190ce63)
+
+![image](https://github.com/user-attachments/assets/829aeeae-9b4e-429a-926c-164d131c7931)
+
 ****************************************************************************************
 # 4) Как передать UDF?
+
+![image](https://github.com/user-attachments/assets/609e65c5-23ff-436d-9d3b-c4b3ac9dfed2)
+
+![image](https://github.com/user-attachments/assets/b15a9374-9969-4ce7-b4b8-f17b3fbfafeb)
+
+![image](https://github.com/user-attachments/assets/a2745ebc-7d8c-4e9b-aea2-6688f129e8cf)
+
+![image](https://github.com/user-attachments/assets/f571a113-e98a-4889-ae59-6e230286c57c)
+
+![image](https://github.com/user-attachments/assets/1db26704-fafe-419c-ae88-b6f9709f7725)
+
+![image](https://github.com/user-attachments/assets/d5343ca9-b3d5-4d37-97c6-3a9acc5cb2a6)
+
+![image](https://github.com/user-attachments/assets/e62c4ff1-59d8-45b7-b485-17d9c64b7108)
+
 
 ****************************************************************************************
 
