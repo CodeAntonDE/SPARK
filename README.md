@@ -113,6 +113,13 @@
 
 # 10) Чем отличается RDD от DataFrame?
 
+![image](https://github.com/user-attachments/assets/146c2a71-3416-4d9d-9068-1ba15d7ab8f3)
+
+![image](https://github.com/user-attachments/assets/f1ad470e-7d74-4d61-91ab-67804ab1158f)
+
+![image](https://github.com/user-attachments/assets/f274a374-6cad-43d6-8a60-2b17b3cab10c)
+
+
 ****************************************************************************************
 
 # 11) Для чего в Spark используется cache?
