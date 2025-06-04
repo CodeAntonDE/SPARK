@@ -141,7 +141,15 @@
 
 ****************************************************************************************
 
-# 13) Минимальное параллелизм в Spark и что это такое?
+# 13) Минимальный параллелизм в Spark и что это такое?
+
+![image](https://github.com/user-attachments/assets/afb4ecf9-dcb2-403f-a8c2-207d722c4179)
+
+![image](https://github.com/user-attachments/assets/78c4bff6-b75d-4989-a2e9-1d927e4be3c3)
+
+![image](https://github.com/user-attachments/assets/18dd1144-e805-400c-b831-9c70f80d217a)
+
+![image](https://github.com/user-attachments/assets/d619aa4c-a661-4a12-8244-617feb68dae6)
 
 ****************************************************************************************
 
