@@ -133,6 +133,12 @@
 
 # 12) Почему нельзя использовать Pandas для больших данных, а нужно использовать Spark?
 
+![image](https://github.com/user-attachments/assets/a90b8bf3-9444-4735-955d-30457567873b)
+
+![image](https://github.com/user-attachments/assets/11755e2c-e5e4-4827-8ed3-ff887b7a19f7)
+
+![image](https://github.com/user-attachments/assets/c0861514-6b8f-4d8f-a04e-180bfff6fc13)
+
 ****************************************************************************************
 
 # 13) Минимальное параллелизм в Spark и что это такое?
