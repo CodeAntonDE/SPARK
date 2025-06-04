@@ -64,6 +64,14 @@
 
 # 6) Какие проблемы могут быть с shuffle?
 
+![image](https://github.com/user-attachments/assets/a2b0ecfd-be66-4a97-9843-c09ffcb381b2)
+
+![image](https://github.com/user-attachments/assets/25f4ba70-4051-41ef-a181-7dfbd22abe08)
+
+![image](https://github.com/user-attachments/assets/87069c6c-c567-43a3-9df9-d81774007e77)
+
+![image](https://github.com/user-attachments/assets/4e5abdc4-5279-49ff-b589-ca931be32424)
+
 ****************************************************************************************
 
 # 7) Что такое spill? И в чем их причины? Какие варианты решения проблем со spill-файлами?
