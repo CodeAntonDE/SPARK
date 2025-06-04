@@ -124,6 +124,11 @@
 
 # 11) Для чего в Spark используется cache?
 
+![image](https://github.com/user-attachments/assets/f2d86fd2-8ff9-459b-a6a9-ec9d167ad366)
+
+![image](https://github.com/user-attachments/assets/03219425-5d1d-4847-8d81-2eb553fd7b63)
+
+
 ****************************************************************************************
 
 # 12) Почему нельзя использовать Pandas для больших данных, а нужно использовать Spark?
