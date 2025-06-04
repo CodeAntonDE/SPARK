@@ -155,6 +155,17 @@
 
 # 14) Что такое RDD в Spark?
 
+![image](https://github.com/user-attachments/assets/85b4c1ec-e2da-4e82-a694-e474eac76fd7)
+
+![image](https://github.com/user-attachments/assets/79504883-a816-4a05-8f9d-8713c9c211b5)
+
+![image](https://github.com/user-attachments/assets/65987f09-3ad7-4b3f-b58a-09cb52a8aeac)
+
+![image](https://github.com/user-attachments/assets/8c7ff79d-4f69-45f2-919b-eb61df944bf9)
+
+![image](https://github.com/user-attachments/assets/fd6e8be4-dc85-4d5e-9d24-75ba73c6a284)
+
+
 ****************************************************************************************
 
 # 15) Что такое Dataset и чем отличается от dataframe и RDD?
