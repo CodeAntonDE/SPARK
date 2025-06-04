@@ -51,6 +51,15 @@
 
 # 5) Какие типы трансформаций бывают?
 
+![image](https://github.com/user-attachments/assets/65870bf6-5b3c-4384-9c16-72f400c14cf0)
+
+![image](https://github.com/user-attachments/assets/3beb62dc-44d9-448a-bacc-27915b3760da)
+
+![image](https://github.com/user-attachments/assets/e7b47ec7-e19b-42a0-9f17-8f9b9961fbe8)
+
+![image](https://github.com/user-attachments/assets/7dcbce16-806d-4dbf-81e8-b62e5e3ad9c5)
+
+
 ****************************************************************************************
 
 # 6) Какие проблемы могут быть с shuffle?
