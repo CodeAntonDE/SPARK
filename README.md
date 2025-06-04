@@ -205,4 +205,10 @@
 
 # 21) Что такое Adaptive query execution?
 
+![image](https://github.com/user-attachments/assets/b7f05eb5-bdaa-47bb-bd8a-15da1bc1e2ac)
+
+![image](https://github.com/user-attachments/assets/3778f8fe-492b-4d12-8a3c-6ae808a683a8)
+
+![image](https://github.com/user-attachments/assets/bf31d355-149b-4cfb-9ba6-4391c07b26dd)
+
 ****************************************************************************************
