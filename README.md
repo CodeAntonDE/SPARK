@@ -99,7 +99,15 @@
 
 ****************************************************************************************
 
-# 9) В чем различие xcoalesce и repartition?
+# 9) В чем различие coalesce и repartition?
+
+![image](https://github.com/user-attachments/assets/5b3e3b86-8f21-4a9b-8b2c-2ba5aa145208)
+
+![image](https://github.com/user-attachments/assets/98bcfd97-a3ed-4dbb-8515-70865baaad54)
+
+![image](https://github.com/user-attachments/assets/ecc474b7-c109-499a-bf25-30ca16f11677)
+
+![image](https://github.com/user-attachments/assets/d29e3e3b-92ec-41fb-974e-008ce1cb1f6d)
 
 ****************************************************************************************
 
