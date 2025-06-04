@@ -76,6 +76,14 @@
 
 # 7) Что такое spill? И в чем их причины? Какие варианты решения проблем со spill-файлами?
 
+![image](https://github.com/user-attachments/assets/589e2a2e-5f13-4210-9f05-b61409bea261)
+
+![image](https://github.com/user-attachments/assets/770cf261-5c23-43c7-97a0-7cafea240dff)
+
+![image](https://github.com/user-attachments/assets/40671d3d-55ff-4eb2-812a-51bcc8c94991)
+
+![image](https://github.com/user-attachments/assets/93e8973b-5889-4583-ae83-0fd9a514bdb7)
+
 ****************************************************************************************
 
 # 8) то такое data skewing? Как можно решить данную проблему?
