@@ -185,6 +185,14 @@
 
 # 18) Какие настройки Spark applications вы используете?
 
+![image](https://github.com/user-attachments/assets/dfd144dc-5061-481a-aeb5-87dc9219fea5)
+
+![image](https://github.com/user-attachments/assets/a5964f54-367c-41ef-91d4-b1fd4bf26336)
+
+![image](https://github.com/user-attachments/assets/075a4c5c-ca7d-42c8-9fad-9944e74b0223)
+
+![image](https://github.com/user-attachments/assets/95538afa-f95f-436e-9392-8f7b57735c8e)
+
 ****************************************************************************************
 
 # 19) Что такое broadcast join в Spark и как его настроить?
